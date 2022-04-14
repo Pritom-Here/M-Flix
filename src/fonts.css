@@ -1,0 +1,783 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Paytone+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300;400;500;600;700;800;900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Squada+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Bungee&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Electrolize&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Days+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Sarpanch:wght@400;500;600;700;800;900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Megrim&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Gugi&display=swap");
+
+.font-rubik-400 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-rubik-500 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-rubik-600 {
+  font-family: "Rubik", "Font Awesome 5 Free", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-rubik-700 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-rubik-800 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-rubik-900 {
+  font-family: "Rubik", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-ubuntu-400 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-ubuntu-500 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-ubuntu-600 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-ubuntu-700 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-ubuntu-800 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-ubuntu-900 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-comfortaa-400 {
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-comfortaa-500 {
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-comfortaa-600 {
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-comfortaa-700 {
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-comfortaa-800 {
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-comfortaa-900 {
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-cairo-400 {
+  font-family: "Cairo", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-cairo-500 {
+  font-family: "Cairo", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-cairo-600 {
+  font-family: "Cairo", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-cairo-700 {
+  font-family: "Cairo", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-cairo-800 {
+  font-family: "Cairo", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-cairo-900 {
+  font-family: "Cairo", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-righteous-400 {
+  font-family: "Righteous", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-righteous-500 {
+  font-family: "Righteous", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-righteous-600 {
+  font-family: "Righteous", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-righteous-700 {
+  font-family: "Righteous", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-righteous-800 {
+  font-family: "Righteous", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-righteous-900 {
+  font-family: "Righteous", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-russo-400 {
+  font-family: "Russo One", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-russo-500 {
+  font-family: "Russo One", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-russo-600 {
+  font-family: "Russo One", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-russo-700 {
+  font-family: "Russo One", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-russo-800 {
+  font-family: "Russo One", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-russo-900 {
+  font-family: "Russo One", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-paytone-400 {
+  font-family: "Paytone One", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-paytone-500 {
+  font-family: "Paytone One", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-paytone-600 {
+  font-family: "Paytone One", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-paytone-700 {
+  font-family: "Paytone One", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-paytone-800 {
+  font-family: "Paytone One", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-paytone-900 {
+  font-family: "Paytone One", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-jura-400 {
+  font-family: "Jura", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-jura-500 {
+  font-family: "Jura", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-jura-600 {
+  font-family: "Jura", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-jura-700 {
+  font-family: "Jura", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-jura-800 {
+  font-family: "Jura", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-jura-900 {
+  font-family: "Jura", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-montserrat-400 {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-montserrat-500 {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-montserrat-600 {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-montserrat-700 {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-montserrat-800 {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-montserrat-900 {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-syncopate-400 {
+  font-family: "Syncopate", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-syncopate-500 {
+  font-family: "Syncopate", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-syncopate-600 {
+  font-family: "Syncopate", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-syncopate-700 {
+  font-family: "Syncopate", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-syncopate-800 {
+  font-family: "Syncopate", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-syncopate-900 {
+  font-family: "Syncopate", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-audiowide-400 {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-audiowide-500 {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-audiowide-600 {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-audiowide-700 {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-audiowide-800 {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-audiowide-900 {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-squada-400 {
+  font-family: "Squada One", cursive;
+  font-weight: 400 !important;
+}
+
+.font-squada-500 {
+  font-family: "Squada One", cursive;
+  font-weight: 500 !important;
+}
+
+.font-squada-600 {
+  font-family: "Squada One", cursive;
+  font-weight: 600 !important;
+}
+
+.font-squada-700 {
+  font-family: "Squada One", cursive;
+  font-weight: 700 !important;
+}
+
+.font-squada-800 {
+  font-family: "Squada One", cursive;
+  font-weight: 800 !important;
+}
+
+.font-squada-900 {
+  font-family: "Squada One", cursive;
+  font-weight: 900 !important;
+}
+
+.font-bungee-400 {
+  font-family: "Bungee", cursive;
+  font-weight: 400 !important;
+}
+
+.font-bungee-500 {
+  font-family: "Bungee", cursive;
+  font-weight: 500 !important;
+}
+
+.font-bungee-600 {
+  font-family: "Bungee", cursive;
+  font-weight: 600 !important;
+}
+
+.font-bungee-700 {
+  font-family: "Bungee", cursive;
+  font-weight: 700 !important;
+}
+
+.font-bungee-800 {
+  font-family: "Bungee", cursive;
+  font-weight: 800 !important;
+}
+
+.font-bungee-900 {
+  font-family: "Bungee", cursive;
+  font-weight: 900 !important;
+}
+
+.font-blackops-400 {
+  font-family: "Black Ops One", cursive;
+  font-weight: 400 !important;
+}
+
+.font-blackops-500 {
+  font-family: "Black Ops One", cursive;
+  font-weight: 500 !important;
+}
+
+.font-blackops-600 {
+  font-family: "Black Ops One", cursive;
+  font-weight: 600 !important;
+}
+
+.font-blackops-700 {
+  font-family: "Black Ops One", cursive;
+  font-weight: 700 !important;
+}
+
+.font-blackops-800 {
+  font-family: "Black Ops One", cursive;
+  font-weight: 800 !important;
+}
+
+.font-blackops-900 {
+  font-family: "Black Ops One", cursive;
+  font-weight: 900 !important;
+}
+
+.font-electrolize-400 {
+  font-family: "Electrolize", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-electrolize-500 {
+  font-family: "Electrolize", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-electrolize-600 {
+  font-family: "Electrolize", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-electrolize-700 {
+  font-family: "Electrolize", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-electrolize-800 {
+  font-family: "Electrolize", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-electrolize-900 {
+  font-family: "Electrolize", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-daysone-400 {
+  font-family: "Days One", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-daysone-500 {
+  font-family: "Days One", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-daysone-600 {
+  font-family: "Days One", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-daysone-700 {
+  font-family: "Days One", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-daysone-800 {
+  font-family: "Days One", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-daysone-900 {
+  font-family: "Days One", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-goldman-400 {
+  font-family: "Goldman", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-goldman-500 {
+  font-family: "Goldman", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-goldman-600 {
+  font-family: "Goldman", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-goldman-700 {
+  font-family: "Goldman", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-goldman-800 {
+  font-family: "Goldman", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-goldman-900 {
+  font-family: "Goldman", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-oxanium-400 {
+  font-family: "Oxanium", cursive;
+  font-weight: 400 !important;
+}
+
+.font-oxanium-500 {
+  font-family: "Oxanium", cursive;
+  font-weight: 500 !important;
+}
+
+.font-oxanium-600 {
+  font-family: "Oxanium", cursive;
+  font-weight: 600 !important;
+}
+
+.font-oxanium-700 {
+  font-family: "Oxanium", cursive;
+  font-weight: 700 !important;
+}
+
+.font-oxanium-800 {
+  font-family: "Oxanium", cursive;
+  font-weight: 800 !important;
+}
+
+.font-oxanium-900 {
+  font-family: "Oxanium", cursive;
+  font-weight: 900 !important;
+}
+
+.font-zendots-400 {
+  font-family: "Zen Dots", cursive;
+  font-weight: 400 !important;
+}
+
+.font-zendots-500 {
+  font-family: "Zen Dots", cursive;
+  font-weight: 500 !important;
+}
+
+.font-zendots-600 {
+  font-family: "Zen Dots", cursive;
+  font-weight: 600 !important;
+}
+
+.font-zendots-700 {
+  font-family: "Zen Dots", cursive;
+  font-weight: 700 !important;
+}
+
+.font-zendots-800 {
+  font-family: "Zen Dots", cursive;
+  font-weight: 800 !important;
+}
+
+.font-sarpanch-400 {
+  font-family: "Sarpanch", sans-serif;
+  font-weight: 400 !important;
+}
+
+.font-sarpanch-500 {
+  font-family: "Sarpanch", sans-serif;
+  font-weight: 500 !important;
+}
+
+.font-sarpanch-600 {
+  font-family: "Sarpanch", sans-serif;
+  font-weight: 600 !important;
+}
+
+.font-sarpanch-700 {
+  font-family: "Sarpanch", sans-serif;
+  font-weight: 700 !important;
+}
+
+.font-sarpanch-800 {
+  font-family: "Sarpanch", sans-serif;
+  font-weight: 800 !important;
+}
+
+.font-sarpanch-900 {
+  font-family: "Sarpanch", sans-serif;
+  font-weight: 900 !important;
+}
+
+.font-megrim-400 {
+  font-family: "Megrim", cursive;
+  font-weight: 400 !important;
+}
+
+.font-megrim-500 {
+  font-family: "Megrim", cursive;
+  font-weight: 500 !important;
+}
+
+.font-megrim-600 {
+  font-family: "Megrim", cursive;
+  font-weight: 600 !important;
+}
+
+.font-megrim-700 {
+  font-family: "Megrim", cursive;
+  font-weight: 700 !important;
+}
+
+.font-megrim-800 {
+  font-family: "Megrim", cursive;
+  font-weight: 800 !important;
+}
+
+.font-megrim-900 {
+  font-family: "Megrim", cursive;
+  font-weight: 900 !important;
+}
+
+.font-gugi-400 {
+  font-family: "Gugi", cursive;
+  font-weight: 400 !important;
+}
+
+.font-gugi-500 {
+  font-family: "Gugi", cursive;
+  font-weight: 500 !important;
+}
+
+.font-gugi-600 {
+  font-family: "Gugi", cursive;
+  font-weight: 600 !important;
+}
+
+.font-gugi-700 {
+  font-family: "Gugi", cursive;
+  font-weight: 700 !important;
+}
+
+.font-gugi-800 {
+  font-family: "Gugi", cursive;
+  font-weight: 800 !important;
+}
+
+.font-gugi-900 {
+  font-family: "Gugi", cursive;
+  font-weight: 900 !important;
+}
+
+.font-size-12 {
+  font-size: 12px !important;
+}
+
+.font-size-13 {
+  font-size: 13px !important;
+}
+
+.font-size-14 {
+  font-size: 14px !important;
+}
+
+.font-size-15 {
+  font-size: 15px !important;
+}
+
+.font-size-20 {
+  font-size: 20px !important;
+}
+
+.font-size-25 {
+  font-size: 25px !important;
+}
+
+.font-size-26 {
+  font-size: 26px !important;
+}
+
+.font-size-28 {
+  font-size: 28px !important;
+}
+
+.font-size-30 {
+  font-size: 30px !important;
+}
+
+.font-size-35 {
+  font-size: 35px !important;
+}
+
+.font-size-40 {
+  font-size: 40px !important;
+}
+
+.font-size-45 {
+  font-size: 45px !important;
+}
+
+.font-size-50 {
+  font-size: 50px !important;
+}
+
+.font-size-55 {
+  font-size: 55px !important;
+}
+
+.font-size-60 {
+  font-size: 60px !important;
+}
+
+.font-size-70 {
+  font-size: 70px !important;
+}
+
+.text-grey {
+  color: #181818 !important;
+}
+
+.text-grey-light {
+  color: #414141 !important;
+}
+
+.text-mold-white {
+  color: #fcfcfc !important;
+}
+
+@media screen and (max-width: 767px) {
+  .font-size-30 {
+    font-size: 20px;
+    margin-top: 0.4em;
+  }
+}
